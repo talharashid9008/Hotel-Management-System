@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Hotel Management System</string>
+    <string name="home_page">Home Page</string>
+    <string name="customers">Customers</string>
+    <string name="reservations">Reservations</string>
+    <string name="accounts">Accounts</string>
+    <string name="checkins">Check-ins</string>
+    <string name="checkouts">Check-outs</string>
+    <string name="add_reservation">Add a reservation</string>
+    <string name="update_reservation">Update reservation</string>
+    <string name="delete_reservation">Delete reservation</string>
+    <string name="view_reservations">View Reservations</string>
+    <string name="add_customer">Add a Customer</string>
+    <string name="view_customers">View Customers</string>
+    <string name="capacity">Capacity</string>
+    <string name="price">Price</string>
+    <string name="room">Room</string>
+    <string name="select_from_date">Select From Date</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_to_date">Select To Date</string>
+    <string name="login">Login</string>
+    <string name="add_payment">Add Payment</string>
+    <string name="update_payment">Update Payment</string>
+    <string name="delete_payment">Delete Payment</string>
+    <string name="view_payment">View Payments</string>
+
+</resources>
