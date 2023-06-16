@@ -1,1 +1,2 @@
 # Hotel-Management-System
+The Hotel Management System is a JavaFX-based application consisting of classes like Accounts, Address, Check_in, Check_out, Customer, Hotel, Payment, Reception, Reservation, Room, and Room_Catalog. It provides functionality for managing hotel operations, reservations, customer information, and room catalog. The system offers a user-friendly interface for efficient hotel management and customer service.
